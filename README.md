@@ -15,4 +15,6 @@
  **[Задача 5: Выберите клиентов без буквы "А"](task-05-clients-without-A.md)**
 
  **[Задача 6: Найти полные имена клиентов ](Task06-find_customers_full_name.md)**
+
+ **[Задача 7: Найти адреса с помощью JOIN ](Task07-Find_adress_with_JOIN.md)**
  
