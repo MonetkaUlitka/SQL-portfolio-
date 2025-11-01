@@ -14,7 +14,9 @@
 
  **[Задача 5: Выберите клиентов без буквы "А"](task-05-clients-without-A.md)**
 
- **[Задача 6: Найти полные имена клиентов ](Task06-find_customers_full_name.md)**
+ **[Задача 6: Найти полные имена клиентов ](task-06-find-customers-full-name.md)**
 
- **[Задача 7: Найти адреса с помощью JOIN ](Task07-Find_adress_with_JOIN.md)**
+ **[Задача 7: Найти адреса с помощью JOIN ](task-07-find-adress-with-JOIN.md)**
+ 
+**[Задача 8: Найти повторяющиеся имена актеров ](task-08-find-dublicate-names.md)**
  
